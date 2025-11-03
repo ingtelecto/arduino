@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingtelecto/proyectos-arduino/main/banner-arduino-ingtelecto.png" alt="Banner Arduino - ingtelecto.com" width="100%">
+  <img src="https://ingtelecto.com/wp-content/uploads/2025/11/www.ingtelecto.com_.png" alt="Banner Arduino - ingtelecto.com" width="100%">
 </p>
 
 <h1 align="center">⚡ Proyectos Arduino - <a href="https://ingtelecto.com">ingtelecto.com</a></h1>
@@ -95,11 +95,11 @@ Puedes usar y compartir el código libremente, citando la fuente original.
 <p align="center">
   <strong>🌐 Sitio web:</strong> <a href="https://ingtelecto.com">ingtelecto.com</a><br>
   <strong>👨‍💻 Autor:</strong> <a href="https://github.com/ingtelecto">@ingtelecto</a><br>
-  📧 <em>hola@ingtelecto.com</em>
+  📧 <em>carlos@fisimat.com.mx</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingtelecto/proyectos-arduino/main/footer-ingtelecto.png" alt="Footer Ingtelecto" width="70%">
+  <img src="https://ingtelecto.com/wp-content/uploads/2025/10/Ingtelecto.svg" alt="Footer Ingtelecto" width="70%">
 </p>
