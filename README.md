@@ -17,10 +17,6 @@
 
 Este repositorio contiene ejemplos de proyectos de **Arduino** publicados en [ingtelecto.com](https://ingtelecto.com).  
 Cada archivo `.ino` corresponde directamente a un tutorial del sitio web.
-
-> 💡 A diferencia de otros repositorios, aquí **no se utilizan carpetas**:  
-> todos los códigos están **sueltos en el directorio principal**, listos para copiar y pegar en el IDE de Arduino.
-
 ---
 
 ## 🧠 Proyectos incluidos
@@ -41,19 +37,12 @@ Cada archivo `.ino` corresponde directamente a un tutorial del sitio web.
 2. Ábrelo directamente en el **IDE de Arduino**.  
 3. Conecta tu placa y sube el código.  
 
-> 🧩 No necesitas crear carpetas ni mover archivos adicionales.
-
 ---
 
 ## 🗂️ Estructura del repositorio
 
-proyectos-arduino/
-├── encender-un-led.ino
-├── controlar-led-rgba.ino
-├── controlar-led-con-dos-botones.ino
-├── encender-zumbador-activo.ino
-├── encender-buzzer-pasivo.ino
-└── README.md
+Cada práctica se encuentra en su propia carpeta. Dentro de ella se incluye
+el archivo `.ino` correspondiente, listo para abrirse con Arduino IDE.
 
 
 ---
