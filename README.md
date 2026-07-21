@@ -23,11 +23,13 @@ Cada archivo `.ino` corresponde directamente a un tutorial del sitio web.
 
 | 💡 Proyecto                        | 📝 Descripción                                               | 📂 Archivo                        |
 |------------------------------------|--------------------------------------------------------------|-----------------------------------|
-| Encender un LED                    | Código básico para encender y apagar un LED                  | `encender-un-led.ino`             |
-| Encender un LED RGB                | Control de colores de un LED RGB mediante PWM                | `controlar-led-rgba.ino`          |
-| Controlar LED con dos botones      | Encendido y apagado de un LED con dos pulsadores             | `controlar-led-con-dos-botones.ino` |
-| Encender zumbador activo           | Uso de un buzzer activo para generar sonido                  | `encender-zumbador-activo.ino`    |
-| Encender buzzer pasivo             | Generar tonos con un buzzer pasivo usando frecuencias PWM    | `encender-buzzer-pasivo.ino`      |
+| Encender un LED                    | Código básico para encender y apagar un LED                  | `encender-un-led/`             |
+| Encender un LED RGB                | Control de colores de un LED RGB mediante PWM                | `controlar-led-rgba/`          |
+| Controlar LED con dos botones      | Encendido y apagado de un LED con dos pulsadores             | `controlar-led-con-dos-botones/` |
+| Encender zumbador activo           | Uso de un buzzer activo para generar sonido                  | `encender-zumbador-activo/`    |
+| Encender buzzer pasivo             | Generar tonos con un buzzer pasivo usando frecuencias PWM    | `encender-buzzer-pasivo/`      |
+| Sensor DHT11 Temperatura/Humedad   | Lectura de temperatura y humedad en el Monitor Serie          | `sensor-temperatura-y-humedad-dht11/` |
+| Fotoresistencia LDR                | Medición de intensidad de luz ambiental con LDR              | `fotoresistencia-ldr/`          |
 
 ---
 
@@ -58,11 +60,11 @@ Cada uno de estos proyectos cuenta con su explicación paso a paso, materiales, 
 
 | 🧾 Proyecto                        | ⏰ Actualización          |
 |-----------------------------------|--------------------------|
-| `encender-un-led.ino`             | Hace 4 minutos           |
-| `encender-zumbador-activo.ino`    | Hace 4 minutos           |
-| `encender-buzzer-pasivo.ino`      | Hace 3 días              |
-| `controlar-led-rgba.ino`          | Hace 3 días              |
-| `controlar-led-con-dos-botones.ino` | Hace 3 días            |
+| `sensor-temperatura-y-humedad-dht11` | Hoy                    |
+| `fotoresistencia-ldr`              | Hoy                      |
+| `encender-un-led`                 | Hoy                      |
+| `encender-zumbador-activo`        | Hace 4 minutos           |
+| `encender-buzzer-pasivo`          | Hace 3 días              |
 
 ---
 
